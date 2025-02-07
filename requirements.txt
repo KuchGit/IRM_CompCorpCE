@@ -1,0 +1,6 @@
+nibabel
+pandas
+streamlit
+matplotlib
+seaborn
+pillow
